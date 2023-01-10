@@ -126,6 +126,6 @@ A select list of useful information resources for cybersecurity, hacking and dev
 
 Just write us an email, discord or a telegram message.
 
-| RSS   | Telegram: <https://t.me/aicdev> |
+Telegram: <https://t.me/aicdev>
 Email: <contact@securityvalley.org>
-| RSS   | Discord: <https://discord.gg/aTAS6t5yxT> |
+Discord: <https://discord.gg/aTAS6t5yxT>
